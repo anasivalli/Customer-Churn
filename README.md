@@ -1,8 +1,14 @@
-# Churn-de-clientes-
-Análise do banco de dados dos clientes para assim desenvolver um modelo de aprendizagem de máquina que seja capaz de prever os clientes que são mais propensos a migrar de operadora e assim oferece-los promoções diferenciadas visando retê-los.
+# Costumer-churn-
+**Customer Database Analysis to Develop a Machine Learning Model**
 
-**Modelo de Machine Learning:**
+The goal is to create a machine learning model capable of predicting which customers are most likely to switch service providers, allowing for targeted promotional offers to retain them.
 
-**- Árvore de decisão:** utiliza váriáveis demográficas, dados de comportamento dos clientes, informações sobre os serviços contratados e dados financeiros para prever se um cliente tem maior probabilidade de churn.
+# Methods
+**Decision Tree** 
+- Uses demographic variables, customer behavior data, information about contracted services, and financial data.
+- Predicts the likelihood of customer churning based on these features.
 
-**Matriz de Confuzão:** é uma métrica fundamental para a avaliação de modelos de classificação. Ela mostra o desemprenho do modelo ao distinguir entre os verdadeiros positivos, falsos negativos, falsos positivos e verdadeiros negativos. Crucial para entender o equilíbrio entre previsões corretas e incorretas.
+**Confusion Matrix**
+- A fundamental metric for evaluating classification models.
+- Displays the model's performance in distinguishing: True Positive (TP), False NEgative (FN), False Positive (FP), True Negative (TN)
+- Crucial for understanding the balnce between correct and incorrect predictions, helping refine the model's accuracy and reliability.
