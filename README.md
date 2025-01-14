@@ -1,4 +1,4 @@
-# Costumer-churn-
+# Customer-churn-
 **Customer Database Analysis to Develop a Machine Learning Model**
 
 The goal is to create a machine learning model capable of predicting which customers are most likely to switch service providers, allowing for targeted promotional offers to retain them.
